@@ -20,7 +20,7 @@ const Page = () => {
     <div className="p-4">
       <div className="flex flex-col items-center justify-center w-full m-auto mt-4 gap-4">
         <div className="flex flex-col lg:flex-row items-center justify-between w-full p-2">
-          <h1 className="font-bold text-4xl">vive-team</h1>
+          <h1 className="font-bold text-4xl">vibe-team</h1>
           <div className="flex flex-col lg:flex-row gap-4 p-2 opacity-50">
             <TooltipProvider>
               <Tooltip>
